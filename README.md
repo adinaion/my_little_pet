@@ -1,6 +1,6 @@
-# My Bunny Virtual Pet
+# My Bunny Virtual Pet 🐰
 
-Welcome to the "My Bunny" virtual pet project! 🐰 This fun little web project features a customizable bunny with interactive animations and engaging actions. Built using HTML, CSS, and JavaScript, this virtual bunny is designed to bring some fun to your browser.
+Welcome to the "My Bunny" virtual pet project! This fun little web project features a customizable bunny with interactive animations and engaging actions. Built using HTML, CSS, and JavaScript, this virtual bunny is designed to bring some fun to your browser.
 
 ### Features:
 - **Ears Animation**: Make the bunny's ears wiggle with a simple click!
