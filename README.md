@@ -28,5 +28,5 @@ To run the project locally, simply clone the repository and open the `index.html
 
 ```bash
 git clone https://github.com/adinaion/my_little_pet.git
-cd my-bunny
+cd my_little_pet
 open index.html
